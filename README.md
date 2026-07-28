@@ -2,7 +2,7 @@
 
 ## 🚀 Desenvolvedor | Residente Tecnológico @ Porto Digital (Embarque Digital)
 
-  Atualmente no 2º período de ADS, participo ativamente da residência tecnológica do Porto Digital, em colaboração direta com seu ecossistema de inovação, onde o foco é transformar problemas de mercado em soluções viáveis. Meus conhecimentos não se limitam apenas a faculdade, sou autodidata, movido pela curiosidade técnica e pela cultura de aprendizado contínuo.
+  Atualmente no 3º período de ADS, participo ativamente da residência tecnológica do Porto Digital, em colaboração direta com seu ecossistema de inovação, onde o foco é transformar problemas de mercado em soluções viáveis. Meus conhecimentos não se limitam apenas a faculdade, sou autodidata, movido pela curiosidade técnica e pela cultura de aprendizado contínuo.
 
 ### 🏆 Experiência em Residência (Porto Digital)
 * **Lumi (Top 10 de 49):** Projeto da Resiencia Tecnológica do porto digital, desenvolvido como solução para educação e desenvolvimento de crianças com autismo.\
